@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi!
 
-<!--
-**Karen-Garbim/Karen-Garbim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Karen Garbim
 
-Here are some ideas to get you started:
+Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco é ser Fullstack
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karen-garbim&theme=tokyonight&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-garbim&layout=compact&theme=tokyonight&show_icons=true)"/>
+</div>
+
+
+
+### Let's get connected:
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karen-kelly-garbim-dos-santos-225966ba/)
+
