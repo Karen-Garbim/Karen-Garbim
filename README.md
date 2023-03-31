@@ -1,10 +1,10 @@
 ## Hi!
 
-Eu sou Karen Garbim
+Eu sou a Karen Garbim
 
 Estudante de Análise e Desenvolvimento de Sistemas
 
-Meu foco é atuar como Fullstack
+Meu foco é atuar como Desenvolvedora Fullstack
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karen-garbim&theme=tokyonight&show_icons=true"/>
